@@ -1,0 +1,6 @@
+langchain
+python-telegram-bot
+ollama
+chromadb
+asyncio
+nest_asyncio
